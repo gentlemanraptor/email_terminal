@@ -1,26 +1,8 @@
 [
     {
-        "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "from": "Dr. Stacy Marholm, Assoc. Dir. EOC <Marholm@cdc.gov>",
+        "to": ["jbaker", "user"],
+        "title": "Hudson's Well, AZ",
+        "body": "At 0800 hours today, DPEI received an emergency call from Dr. Fritz Strickland, one of two full-time physicians at Hudson's Well Catholic Hospital. In less than 24 hours, eight patients have been admitted, with suspect symptoms, including two medical staff, and four of those have died. High fever is universal, and intense headaches are also reported, along with coughing, nausea, disorientation, and hallucinations.  Dr. Strickland has isolated the patients and is requesting immediate assistance.  All patients have proven resistant to antibiotics including Cefepime, Levequin, and Vancomycin. Tylenol failed to reduce their fevers, and cooling blankets were only marginally effective.  The responders named below are to proceed immediately to Hudson's Well Catholic Hospital, identify the illness, set a treatment plan, locate the source of the infection, evaluate the crisis, and advise on contagion and containment.  --SM, M.D."
     },
-    {
-        "from": "Software",
-        "to": ["8A73B5", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
-    },
-    {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
-    },
-    {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
-    }
 ]
