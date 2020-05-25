@@ -9,7 +9,7 @@
         "password": "",
         "userName": "anonymous"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     
     "latestKernel": true
 }
