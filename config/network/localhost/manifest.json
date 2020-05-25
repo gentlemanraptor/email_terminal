@@ -2,7 +2,7 @@
     "year": "2012",
     "serverAddress": "localhost",
     "serverName": "CDC Internal Server",
-    "iconName": "CDC.jpg",
+    "iconName": "CDC.png",
     "terminalID": "CDC",
     "defaultUser": {
         "userId": "user",
