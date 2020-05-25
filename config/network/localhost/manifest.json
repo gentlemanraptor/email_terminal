@@ -7,9 +7,9 @@
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "user"
     },
-    "randomSeed": false,
+    "randomSeed": true,
     
     "latestKernel": true
 }
