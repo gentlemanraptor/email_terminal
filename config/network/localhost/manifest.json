@@ -1,9 +1,9 @@
 {
-    "year": "2377",
+    "year": "2012",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "CDC Internal Server",
+    "iconName": "CDC.jpg",
+    "terminalID": "CDC",
     "defaultUser": {
         "userId": "user",
         "password": "",
