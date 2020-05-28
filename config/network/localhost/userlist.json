@@ -1,7 +1,7 @@
 [
     {
-        "userId": "jbaker",
-        "password": "test",
+        "userId": "janelle.baker",
+        "password": "abc123ABC!#",
         "userName": "Baker, Janelle"
     },
 
@@ -14,12 +14,18 @@
     {
         "userId": "greygookills",
         "password": "Greygookilled1/3Europe",
-        "userName": "root"
+        "userName": "Roth, Dustin"
     },
 
     {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
+        "userId": "CKHenderson",
+        "password": "Clara0607",
+        "userName": "Henderson, Cedrick"
+    },
+    
+    {
+        "userId": "mjacob09",
+        "password": "gotgerm09",
+        "userName": "Jacob, Maria"
     }
 ]
